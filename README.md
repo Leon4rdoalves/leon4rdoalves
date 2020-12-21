@@ -4,7 +4,7 @@
 
 👽 Do or do not. There is no try.<br/>
 📌 Rio de Janeiro → São Paulo<br/>
-🎓 Sistema de Informação ◼◼◼◼◼◼◻◻
+🎓 Sistema de Informação ◻◻◻◻◻◻◼◼
 
 <hr/>
 
