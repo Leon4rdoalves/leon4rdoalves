@@ -1,6 +1,6 @@
 ## Iaee! 🖖🏾 
 
-> O desenhista que programa, o programador que faz graffit, o graffiteiro que toca cavaquinho, o cavaquinista que toca piano...
+> O desenhista que programa, o programador que faz graffit, <br/>o graffiteiro que toca cavaquinho, o cavaquinista que toca piano...
 
 👽 Do or do not. There is no try.<br/>
 📌 Rio de Janeiro → São Paulo<br/>
