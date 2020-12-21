@@ -6,13 +6,13 @@
 📌 Rio de Janeiro → São Paulo<br/>
 🎓 Sistema de Informação ◻◻◻◻◻◻◼◼
 
-<hr/>
+<br/>
 
 | 💻 Linguagens 📚| 
 |--|
 | ![python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg)   ![js](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg)   ![react](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg)  ![php](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg) |
 
-<hr/>
+<br/>
 
 👨🏾‍🏫 Cursos *ONLINE*<br/>
       • [Lógica de Programação](https://www.superprof.com.br/logica-programacao-tudo-voce-precisa-saber-para-ser-bom-desenvolvedor.html) Iniciante | Intermediário | Avançado<br/>
@@ -20,8 +20,7 @@
       • [HTML + CSS + JavaScript](https://www.superprof.com.br/html-css-javascript-isso-mesmo-tudo-curso-para-inciantes-intermediarios.html) Iniciante | Intermediário | Avançado<br/>
       • [Banco de Dados](https://www.superprof.com.br/aulas-banco-dados-com-linguagem-sql-zero-para-iniciantes.html) Iniciante | Intermediário | Avançado
 
-
-<hr/>
+<br/>
 
 | Minhas Redes |  
 |--|
