@@ -23,7 +23,6 @@
 
 <hr/>
 <br/>
-<br/>
 
 <h4 align="center"> 📱 Minhas Redes 🌍</h4>
 
