@@ -16,10 +16,10 @@
 <hr/>
 
 <h4 align="center"> 👨🏾‍🏫 Cursos *ONLINE*</h4>
-      • [Lógica de Programação](https://www.superprof.com.br/logica-programacao-tudo-voce-precisa-saber-para-ser-bom-desenvolvedor.html) Iniciante | Intermediário | Avançado
-      • [Python](https://www.superprof.com.br/aprenda-python-maneira-correta-com-exercicios-fixacao-bonus-sobre-games.html) Iniciante | Intermediário 
-      • [HTML + CSS + JavaScript](https://www.superprof.com.br/html-css-javascript-isso-mesmo-tudo-curso-para-inciantes-intermediarios.html) Iniciante | Intermediário | Avançado
-      • [Banco de Dados](https://www.superprof.com.br/aulas-banco-dados-com-linguagem-sql-zero-para-iniciantes.html) Iniciante | Intermediário | Avançado
+ • [Lógica de Programação](https://www.superprof.com.br/logica-programacao-tudo-voce-precisa-saber-para-ser-bom-desenvolvedor.html) Iniciante | Intermediário | Avançado<br/>
+ • [Python](https://www.superprof.com.br/aprenda-python-maneira-correta-com-exercicios-fixacao-bonus-sobre-games.html) Iniciante | Intermediário<br/> 
+ • [HTML + CSS + JavaScript](https://www.superprof.com.br/html-css-javascript-isso-mesmo-tudo-curso-para-inciantes-intermediarios.html) Iniciante | Intermediário | Avançado<br/>
+ • [Banco de Dados](https://www.superprof.com.br/aulas-banco-dados-com-linguagem-sql-zero-para-iniciantes.html) Iniciante | Intermediário | Avançado<br/>
 
 <hr/>
 <br/>
