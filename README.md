@@ -13,6 +13,10 @@
 
 <br/>
 
+&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg) &nbsp; ![js](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg) &nbsp; ![react](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg) &nbsp; ![php](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg) 
+
+
+
 👨🏾‍🏫 Cursos *ONLINE*<br/>
       • [Lógica de Programação](https://www.superprof.com.br/logica-programacao-tudo-voce-precisa-saber-para-ser-bom-desenvolvedor.html) Iniciante | Intermediário | Avançado<br/>
       • [Python](https://www.superprof.com.br/aprenda-python-maneira-correta-com-exercicios-fixacao-bonus-sobre-games.html) Iniciante | Intermediário<br/> 
