@@ -1,6 +1,6 @@
 <h2 align="center">Iaee! 🖖🏾</h2> 
 
-> O desenhista que programa, o programador que faz graffit, o graffiteiro que toca cavaquinho, o cavaquinista que toca piano...
+>O desenhista que programa, o programador que faz graffit, o graffiteiro que toca cavaquinho, o cavaquinista que toca piano... enfim, a polimatia.
 
 
 👽 Do or do not. There is no try.<br/>
