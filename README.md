@@ -7,12 +7,6 @@
 
 <br/>
 
-| 💻 Linguagens 📚| 
-|--|
-| ![python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg)   ![js](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg)   ![react](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg)  ![php](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg) |
-
-<br/>
-
 <h4 align="center"> 💻 Linguagens 📚 </h4>
 
 &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg) &nbsp; ![js](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg) &nbsp; ![react](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg) &nbsp; ![php](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg) 
