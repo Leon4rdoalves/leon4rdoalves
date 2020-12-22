@@ -3,7 +3,7 @@
 >O desenhista que programa, o programador que faz graffiti, o graffiteiro que toca cavaquinho, o cavaquinista que toca piano. </br>Enfim, a polimatia.
 
 
-👽 Do or do not. There is no try. 👽 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📌 Rio de Janeiro → São Paulo 📌 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎓 Sistema de Informação ◻◻◻◻◻◻◼◼ 🎓
+👽 Do or do not. There is no try. 👽 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📌 Rio de Janeiro → São Paulo 📌 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎓 Sistema de Informação ◻◻◻◻◻◻◼◼ 🎓
 
 <br/>
 
