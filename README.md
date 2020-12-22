@@ -3,7 +3,9 @@
 >O desenhista que programa, o programador que faz graffiti, o graffiteiro que toca cavaquinho, o cavaquinista que toca piano. </br>Enfim, a polimatia.
 
 <hr/>
+
 👽 Do or do not. There is no try. 👽 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📌 Rio de Janeiro → São Paulo 📌 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎓 Sistema de Informação ◻◻◻◻◻◻◼◼ 🎓
+
 <hr/>
 <br/>
 
@@ -16,10 +18,13 @@
 <hr/>
 
 <h4 align="center"> 👨🏾‍🏫 Cursos ONLINE 👨🏾‍🏫 </h4>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-🏆<a href="https://www.superprof.com.br/logica-programacao-tudo-voce-precisa-saber-para-ser-bom-desenvolvedor.html">Lógica de Programação</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; 
-🏆<a href="https://www.superprof.com.br/aprenda-python-maneira-correta-com-exercicios-fixacao-bonus-sobre-games.html">Python</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-🏆<a href="https://www.superprof.com.br/html-css-javascript-isso-mesmo-tudo-curso-para-inciantes-intermediarios.html">HTML + CSS + JS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+🏆<a href="https://www.superprof.com.br/logica-programacao-tudo-voce-precisa-saber-para-ser-bom-desenvolvedor.html">Lógica de Programação</a> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; 
+🏆<a href="https://www.superprof.com.br/aprenda-python-maneira-correta-com-exercicios-fixacao-bonus-sobre-games.html">Python</a> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+🏆<a href="https://www.superprof.com.br/html-css-javascript-isso-mesmo-tudo-curso-para-inciantes-intermediarios.html">HTML + CSS + JS</a> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    
 🏆<a href="https://www.superprof.com.br/aulas-banco-dados-com-linguagem-sql-zero-para-iniciantes.html">Banco de Dados</a>
 
 <hr/>
