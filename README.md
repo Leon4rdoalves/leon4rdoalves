@@ -2,17 +2,37 @@
 
 >O desenhista que programa, o programador que faz graffiti, o graffiteiro que toca cavaquinho, o cavaquinista que toca piano. </br>Enfim, a polimatia.
 
-<hr/>
+
 
 👽 Do or do not. There is no try. 👽 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📌 Rio de Janeiro → São Paulo 📌 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎓 Sistema de Informação ◻◻◻◻◻◻◼◼ 🎓
 
 <hr/>
 
-<h4 align="center"> 💻 Linguagens 📚 </h4>
+<h4 align="center"> 💻 Hard Skill 📚 </h4>
 
-&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg) &nbsp; ![js](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg) &nbsp; ![react](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg) &nbsp; ![php](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg) 
+&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg) 
 
 <hr/>
+
+<h4 align="center"> 🚀 Skills 🚀 </h4>
+
+
+&nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+
+<hr/>
+
 
 <h4 align="center"> 👨🏾‍🏫 Cursos ONLINE 👨🏾‍🏫 </h4>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
@@ -26,7 +46,16 @@
 
 <hr/>
 
-<h4 align="center"> 📱 Minhas Redes 🌍</h4>
+
+<a href="https://github.com/VanessaSwerts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leon4rdoalves&theme=dark&show_icons=true" />
+</a>
+
+
+[![Leon4rdoalves](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rdoalves&hide=html&layout=compact&theme=dark)](https://github.com/Leon4rdoalves/)
+
+
+<h4 align="center"> 📱 Onde me encontrar 🌍</h4>
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; [![instagram](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg)](https://instagram.com/ebony.programador/) &nbsp; [![linkedin](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/leonardo-alves-7b5aa5152/) &nbsp; [![youtube](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/streaming/youtube.svg)](https://www.youtube.com/channel/UC8fRZfYGd21_D8DwuEcFuHw) &nbsp; [ ![youtube](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/streaming/youtube.svg)](https://www.youtube.com/channel/UCgMsaDIka3GpY3GSKSnUNZg)
 
