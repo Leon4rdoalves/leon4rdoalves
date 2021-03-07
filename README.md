@@ -60,8 +60,7 @@
 
   <a href="https://github.com/Leon4rdoalves">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leon4rdoalves&theme=merko&show_icons=true" />
-  </a>
-</p>
+  </a></p>
 
 
 
